@@ -1,0 +1,102 @@
+[
+  {
+    "module": "Frontend",
+    "submodules": [
+      {
+        "title": "User Interface Design",
+        "description": "An intuitive and responsive design that allows users to easily navigate through job postings, freelancer profiles, and project management tools.",
+        "selected": true
+      },
+      {
+        "title": "Job Posting & Proposal UI",
+        "description": "A streamlined interface for clients to post tasks and for freelancers to submit proposals, featuring real-time notifications and updates.",
+        "selected": true
+      },
+      {
+        "title": "Dashboard",
+        "description": "A personalized dashboard for users to track their projects, payments, and performance metrics, enhancing user engagement and satisfaction.",
+        "selected": true
+      },
+      {
+        "title": "Profile Management",
+        "description": "Allows freelancers to showcase their skills, portfolios, and reviews, while clients can manage their job postings and view freelancer profiles.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Backend",
+    "submodules": [
+      {
+        "title": "AI Job Matching Engine",
+        "description": "Utilizes machine learning algorithms to match clients with the most suitable freelancers based on skills, experience, and project requirements.",
+        "selected": true
+      },
+      {
+        "title": "Smart Contract Management",
+        "description": "Handles the creation, execution, and management of smart contracts for escrow payments, ensuring secure and automated transactions.",
+        "selected": true
+      },
+      {
+        "title": "Decentralized Reputation System",
+        "description": "Implements an on-chain review system that allows users to rate and review freelancers, contributing to a transparent and trustworthy marketplace.",
+        "selected": true
+      },
+      {
+        "title": "Identity Verification Integration",
+        "description": "Integrates with Self Protocol to verify user identities, ensuring that freelancers and clients are legitimate and trustworthy.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Payment Integration",
+    "submodules": [
+      {
+        "title": "Escrow Payment System",
+        "description": "Facilitates secure transactions through smart contracts, ensuring that funds are only released upon successful completion of work.",
+        "selected": true
+      },
+      {
+        "title": "Crypto Payment Gateway",
+        "description": "Enables seamless transactions in various cryptocurrencies, allowing freelancers to receive payments instantly without high platform fees.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "AI Features",
+    "submodules": [
+      {
+        "title": "AI Tracking & Monitoring",
+        "description": "Employs AI algorithms to track project progress and verify work completion, providing clients with real-time updates and insights.",
+        "selected": true
+      },
+      {
+        "title": "Dispute Resolution System",
+        "description": "Utilizes AI to analyze disputes and provide fair resolutions based on project data, user feedback, and contract terms.",
+        "selected": true
+      },
+      {
+        "title": "Skill-Based Staking Mechanism",
+        "description": "Allows freelancers to lock tokens as a form of verification for their skills, enhancing trust and accountability within the marketplace.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Admin Panel",
+    "submodules": [
+      {
+        "title": "User Management",
+        "description": "Enables administrators to manage user accounts, monitor activity, and enforce platform policies to maintain a safe and fair environment.",
+        "selected": true
+      },
+      {
+        "title": "Analytics Dashboard",
+        "description": "Provides insights into platform performance, user engagement, and financial metrics, helping to inform strategic decisions and improvements.",
+        "selected": true
+      }
+    ]
+  }
+]
